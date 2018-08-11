@@ -1,0 +1,75 @@
+#first-page {
+  background-image: url('https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cdff4c62302fd44491d4850202323d11&auto=format&fit=crop&w=1050&q=80');
+  background-size: cover;
+  height: 100vh;
+}
+
+#menu {
+  background-color: #1d809f;
+  animation: 0.5s forwards;
+  height: 100vh;
+}
+
+#profile {
+  background-image: url('https://images.unsplash.com/photo-1519419166318-4f5c601b8e6c?ixlib=rb-0.3.5&s=281a47878ba7292df40256a164dd3058&auto=format&fit=crop&w=967&q=80');
+  background-size: cover;
+  height: 100vh;
+}
+
+#education {
+  background-image: url('https://images.unsplash.com/photo-1503387837-b154d5074bd2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7282b4ee498dc7962802246c290a9639&auto=format&fit=crop&w=1489&q=80');
+  height: 100vh;
+}
+
+#project {
+  /* background-image: url('https://images.unsplash.com/photo-1519419166318-4f5c601b8e6c?ixlib=rb-0.3.5&s=281a47878ba7292df40256a164dd3058&auto=format&fit=crop&w=967&q=80'); */
+  /* background-size: cover; */
+  height: 115vh;
+}
+
+#skill {
+  background-color: #01579b ;
+  height: 100vh;
+}
+
+#award {
+  background-color: aliceblue;
+  height: 100vh;
+}
+
+.col-hg {
+  margin-top: 250px;
+}
+
+.card-rad {
+  border-radius: 20px;
+}
+
+h1,
+h2 {
+  font-family: 'Berkshire Swash', cursive;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+#id {
+  font-size: 2vw;
+  font-family: 'Faustina', serif;
+  margin-top: 30px
+}
+
+.center {
+  text-align: center;
+}
+
+#ari_profile {
+  font-size: 18px; 
+  margin: 50px 50px;
+}
+
+.social-media {
+  font-size: 35px; 
+  letter-spacing: 25px;
+}
